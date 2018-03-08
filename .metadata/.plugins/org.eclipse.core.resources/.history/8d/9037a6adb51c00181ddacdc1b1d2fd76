@@ -1,9 +1,0 @@
-package com.luv2code.springdemo.service;
-
-import org.springframework.stereotype.Service;
-
-@Service
-public class CustomerServiceImpl {
-
-	CustomerDAO customerDAO;
-}

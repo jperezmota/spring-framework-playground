@@ -1,4 +1,0 @@
-#Tomcat publish data
-#Wed Feb 28 23:02:36 AST 2018
-org.eclipse.jst.jee.server\:/binary\:/Users/jonathanperezmota/Documents/java/spring_framework/courses/udemy_spring_and_hibernate/workspace/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar
-org.eclipse.jst.jee.server\:/binary\:/Users/jonathanperezmota/Documents/java/spring_framework/courses/udemy_spring_and_hibernate/workspace/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
