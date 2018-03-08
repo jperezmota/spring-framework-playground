@@ -1,0 +1,23 @@
+package com.luv2code.springdemo.dao;
+
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import com.luv2code.springdemo.entity.Customer;
+
+@Repository
+public class CustomerDAOImpl implements CustomerDAO {
+	
+	// need to inject the session factory
+	@Autowired
+	SessionFactory sessionFactory;
+
+	
+	@Override
+	public List<Customer> getCustomers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

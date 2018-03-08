@@ -1,0 +1,10 @@
+package com.luv2code.aopdemo.service;
+
+public class TrafficFortuneService {
+
+	public String getFortune() {
+		// simulate  a delay
+		
+		// return a fortune
+	}
+}

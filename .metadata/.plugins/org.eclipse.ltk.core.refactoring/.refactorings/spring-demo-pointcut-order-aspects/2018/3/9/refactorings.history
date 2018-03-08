@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.luv2code.aopdemo.aspect.MyApiAnalyticAspect&apos; to &apos;MyApiAnalyticsAspect&apos;&#x0A;- Original project: &apos;spring-demo-pointcut-order-aspects&apos;&#x0A;- Original element: &apos;com.luv2code.aopdemo.aspect.MyApiAnalyticAspect&apos;&#x0A;- Renamed element: &apos;com.luv2code.aopdemo.aspect.MyApiAnalyticsAspect&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyApiAnalyticAspect&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.luv2code.aopdemo.aspect{MyApiAnalyticAspect.java[MyApiAnalyticAspect" matchStrategy="1" name="MyApiAnalyticsAspect" qualified="false" references="true" similarDeclarations="false" stamp="1519937822227" textual="false" version="1.0"/>
+</session>
